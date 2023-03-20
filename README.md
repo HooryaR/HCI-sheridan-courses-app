@@ -33,11 +33,14 @@ The Sheridan Courses App is to keep students engaged and informed about their co
 ## Initial Prototype ~ Version 1
 ![Screen Shot 2023-02-21 at 4 35 21 PM](https://user-images.githubusercontent.com/101716151/220463756-b701dca5-6253-4cd1-bba6-b1ea49ec5e40.png)
 
-## Current Prototype ~ Version 2
+## Second Prototype ~ Version 2
 ![Screen Shot 2023-02-21 at 4 38 44 PM](https://user-images.githubusercontent.com/101716151/220464515-eb46b321-b97d-478f-b98b-9c7628bde20f.png)
 
-## Navigation Prototype ~ Version 2
-![Screen Shot 2023-02-21 at 4 40 38 PM](https://user-images.githubusercontent.com/101716151/220464819-fc61ee0d-7fca-4550-a97c-a4d8b72e6dd3.png)
+## Navigation Final Prototype 
+![Screen Shot 2023-03-20 at 12 37 49 AM](https://user-images.githubusercontent.com/101716151/226248223-737a165f-5c5e-4a55-a85f-29cffae48dc6.png)
+
+## Final Prototype
+![Screen Shot 2023-03-20 at 12 37 07 AM](https://user-images.githubusercontent.com/101716151/226248142-5fd60ff1-6d7f-443a-b2d8-4cd2073de0db.png)
 
 ## Demo Video
 Watch the video [here](https://youtu.be/mleS8H2lyGQ)
@@ -53,7 +56,7 @@ Watch the video [here](https://youtu.be/mleS8H2lyGQ)
 
 
 ## Links
-- [Figma Public Link](https://www.figma.com/file/vOeOjm6riY1iXrW5nCGDE2/A2---Sheridan-Courses-App-2nd-Prototype?node-id=0%3A1&t=oq8h56y0Ha3STEy9-1)
+- [Figma Public Link](https://www.figma.com/file/71J0TaHkwuvxnKxOpDl4OK/A3---Sheridan-Courses-App-Final-Prototype?node-id=0%3A1&t=XRYGJDvkAtGMoNHO-1)
 - [Video Demo](https://youtu.be/mleS8H2lyGQ)
 
 
