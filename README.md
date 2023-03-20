@@ -4,6 +4,7 @@ Documentation and prototype for a Sheridan Courses App. The Sheridan Courses App
 ## Application Versions
 1. [Version 1](https://www.figma.com/file/BuB2CX99ewsTIYnC9dL77i/A1---Sheridan-Courses-App-1st-Prototype?node-id=0%3A1&t=PeoEqco4VItDLzyc-1)
 2. [Version 2](https://www.figma.com/file/vOeOjm6riY1iXrW5nCGDE2/A2---Sheridan-Courses-App-2nd-Prototype?node-id=0%3A1&t=gxJ7uyJ6cMKMdTY5-1)
+3. [Final Version](https://www.figma.com/file/71J0TaHkwuvxnKxOpDl4OK/A3---Sheridan-Courses-App-Final-Prototype?node-id=0%3A1&t=XTtHnYVemafc0Ahx-1)
 
 ##  ![icons8-info-48](https://user-images.githubusercontent.com/101716151/220473207-c8aa068c-b479-409c-a7b5-b9af5642fa5d.png) About
 The Sheridan Courses App is to keep students engaged and informed about their coursework. By using the Sheridan Courses App students can stay on top of their coursework and avoid falling behind. The app helps students to manage their time effectively, prioritize their tasks, and stay motivated throughout the semester. 
